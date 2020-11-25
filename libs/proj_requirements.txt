@@ -1,0 +1,36 @@
+### Pre-processing ECG packages
+
+# for plotting graphs
+matplotlib 
+
+# physionet tools
+wfdb 
+
+# arrays
+numpy 
+
+# data analysis tool
+pandas 
+
+# graphing tool
+seaborn 
+
+ # signal processing 
+scipy
+
+# dataloading
+h5py 
+
+# peak finding
+peakutils 
+
+# wavelet transforms
+PyWavelets 
+
+### ML Packages
+
+
+
+
+### Deep Learning Packages
+
