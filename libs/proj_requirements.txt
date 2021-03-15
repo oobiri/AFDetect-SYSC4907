@@ -29,8 +29,13 @@ PyWavelets
 
 ### ML Packages
 
+scikit-learn
 
+# ECG analysis
+biosppy
 
+# CSV
+csv
 
 ### Deep Learning Packages
 
